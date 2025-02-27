@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../app/TestResources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../test/api_test/watchcat_src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../test/rtc_resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/AudioDevice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/abseil-cpp-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/boost_1_69_0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/breakpad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/ffmpeg-deps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/ffmpeg-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/jsoncpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/libsrtp-2.1.0-pre" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/libtq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/libtq/thirdparty/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/logsdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/logsdk/thirdparty/proto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/lsquic-2.30.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/usrsctp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/websocketpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../third_party/winsdk_samples_v71" vcs="Git" />
+  </component>
+</project>

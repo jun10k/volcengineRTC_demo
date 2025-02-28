@@ -1,8 +1,8 @@
 {
-  "app_id": "",
-  "user_id": "",
-  "room_token": "",
-  "room_id": "",
+  "app_id": "4dad091796ea4299be5df7d41733c51c",
+  "user_id": "rollingai",
+  "room_token": "00167c0025bd387d00180bbfd36RwDIrDoClwLAZxc9yWcIAHJ0Y19kZW1vCQByb2xsaW5nYWkGAAAAFz3JZwEAFz3JZwIAFz3JZwMAFz3JZwQAFz3JZwUAFz3JZyAA2Lug2h7Y458LHCwjfB6RKVIh8SVCeHuCuZeeF8SA9bw=",
+  "room_id": "rtc_demo",
   "engine_parameters": {
   }
 }
